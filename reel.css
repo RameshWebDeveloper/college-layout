@@ -1,0 +1,186 @@
+
+.clg-name1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 0px; 
+}
+.clg-name2{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+.top-title{
+    border: solid rgb(0, 17, 255) 3px;55
+    border-radius: 25px;
+    display: flex;
+}
+.clg-head{
+   position: relative;
+   left: 300px;
+}
+.clg-icon{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+}
+.clg-icon2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    left:  600px;
+}
+
+.why{
+    color: brown;
+    text-align: center;
+    font-size: 35px;
+}
+span:hover{
+    color: red;
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+.dropdown{
+    position: inherit;
+    display: inline-block;
+    margin: 10px;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    z-index: +1
+    
+}
+.dropdown-content{
+    background-color: white;
+    border-radius: 5px;
+    display: none;
+    position: absolute;
+    white-space: nowrap;
+}
+.list-elements{
+    margin-top: 15px;
+    padding-top: 25px;
+    text-align: center;
+    background-color: orange;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.slide{
+    text-align: center;
+    background-color: azure;
+}
+#photo{
+    width: 1000px;
+    height: 500px;
+}
+.decrition{
+    padding: 10px;
+    word-spacing: 5px;
+    font-size: 20px;
+    justify-content: space-around;
+}
+.discripsion{
+    border-radius: 30px;
+    background-color: azure;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+}
+.main-content{
+    display: flex;
+}
+.photo4{
+    width: 650px;
+    height: 750px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+    width: 80%;
+    font-size: 20px;
+    background-color: azure;
+    border-radius: 15px;
+}
+.content{
+    width: auto;
+    padding: 10px;
+    display: flex;
+    padding: 35px;
+    background-color: beige;
+    
+}
+.info{
+    display: flex;
+
+}
+.vision{
+    font-size: 20px;
+    width: 25%;
+    height: 300px;
+    padding: 35px;
+    background-color: rgb(101, 7, 138) ;
+    color: white;
+}
+.mission{
+    font-size: 20px;
+    height: 300px;
+    width: 50%;
+    padding: 35px;
+    background-color: rgb(15, 176, 152);
+    color: white;
+}
+.value{
+    font-size: 20px;
+    height: 300px;
+    width: 25%;
+    padding: 35px;
+    background-color: rgb(172, 12, 60);
+    color: white;
+}
+.bottom-details{
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    background-color: rgb(13, 14, 16);
+    padding: 20px;
+    color: white;
+}
+.para-dis{
+    padding: 10px;
+    width: 600px;
+    height: 100px;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left : 100px;
+}
+.quick{
+    position: relative;
+    left: 180px;
+    padding-top: 20px;
+}
+.quick1{
+    position: relative;
+    left: 250px;
+    padding-top: 20px;
+}
+
+.copy-right{
+    font-size: large;
+    text-align: center;
+    background-color:rgb(13, 14, 16);
+    color: white;
+    padding-bottom: 50px;
+    
+}
